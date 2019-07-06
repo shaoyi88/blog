@@ -1,11 +1,4 @@
----
-layout: post
-title: es6常用语法
-date: '2019-05-18'
----
-
 ## ECMAScript和JavaScript的关系
----
 ECMAScript是JavaScript的规范，JavaScript是ECMAScript的实现；
 2009年，ECMAScript5发布，开始成为主流标准；
 2015年，ECMAScript6发布，此后发布的标准通常成为ES6；
@@ -15,7 +8,6 @@ https://kangax.github.io/compat-table/es6/
 https://github.com/zloirock/core-js
 
 ## ES6常用新语法和新特性
----
 ### 块级作用域
 ES6之前不存在块级作用域，内部变量可能覆盖外部变量，同时使用var定义的变量会具备变量提升效果，例如：
 ```

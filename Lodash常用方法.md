@@ -1,5 +1,4 @@
 ## Array常用方法
-
 - compact —— 去除数组假值(false, null, 0, "", undefined,NaN)
 - uniq —— 去除数组重复值
 ```
